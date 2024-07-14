@@ -81,7 +81,7 @@ C:\User\app\projects\crm>python main.py
 
 ------
 
-6. **Analyse/Visualization**
+7. **Analyse/Visualization**
 
 <img width="960" alt="visualize" src="https://github.com/user-attachments/assets/01913243-203c-4f7e-8ad2-297d637c3b75">
 
