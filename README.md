@@ -76,8 +76,12 @@ C:\User\app\projects\crm>python main.py
 ------
 
 
-#### So, this is how it ends🥂👩🏻‍💻.
+#### So, this is how it ends 🙌.
 
-**Made with 🤍 by *Vishal S  Nala***
+**👨🏻‍💻 Programmed by: *Vishal S  Nala***
 
 **Special Thanks to [QbitsLearning](https://www.qbitslearning.com/ "QbitLearning's Homepage") Community🤍 and [*Nitish Shetty Sir*](https://www.linkedin.com/in/nitish-m-setty-7a0206192/)✨**
+
+
+
+*ReadME Credits: Anil Swami*
