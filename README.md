@@ -41,37 +41,50 @@ C:\User\app\projects\crm>python main.py
 
 1. **init.py**
 
-<img width="960" alt="init_py" src="https://github.com/user-attachments/assets/0fc1ce89-4498-43a6-b25e-ea830aabb885">
+<img width="960" alt="init_py" src="https://github.com/user-attachments/assets/9ba87cdd-b801-42a3-a4d0-2ce0cf70427b">
+
 
 ------
 
-2. **main.py**
+2. **lead-generator.py**
 
-<img width="960" alt="main_py" src="https://github.com/user-attachments/assets/22d19b6b-5c66-448c-bc8d-4bb2adfb1e0c">
+<img width="960" alt="lead-generator_py" src="https://github.com/user-attachments/assets/e8188b67-3e89-4f68-be2f-fb0e134fc515">
 
-------
-
-3. **Setting up**
-
-<img width="960" alt="setting_up" src="https://github.com/user-attachments/assets/626b9c39-111c-4ac0-b3e4-4d7b9861eb69">
 
 ------
 
-4. **Creating a new user**
+3. **main.py**
 
-<img width="960" alt="create_bda" src="https://github.com/user-attachments/assets/7e68c56c-aa70-4d5a-a8e6-13d004015f6f">
+<img width="960" alt="main_py" src="https://github.com/user-attachments/assets/77b17a97-86d6-45cb-82a2-8d581bcc103e">
 
-------
-
-5. **Payouts**
-
-<img width="960" alt="payouts" src="https://github.com/user-attachments/assets/2d880aa9-127b-4c6b-98e6-6c8da7ae4448">
 
 ------
 
-6. **Visualization**
+4. **Sales Table of CRM database**
 
-<img width="960" alt="visualize" src="https://github.com/user-attachments/assets/6eb51cd9-3efc-4cc4-8511-e132fbb5ac53">
+<img width="960" alt="sales_db" src="https://github.com/user-attachments/assets/1cab987e-2d90-453f-954b-51b047be3d5f">
+
+
+------
+
+5. **Initialisation**
+
+<img width="960" alt="__init__" src="https://github.com/user-attachments/assets/ef485635-ee58-4a81-8458-19a77ef9ae70">
+
+
+------
+
+6. **Checkout/Payouts**
+
+<img width="960" alt="payouts" src="https://github.com/user-attachments/assets/9035a360-c14b-4f06-b4aa-8762516bc46d">
+
+
+------
+
+6. **Analyse/Visualization**
+
+<img width="960" alt="visualize" src="https://github.com/user-attachments/assets/01913243-203c-4f7e-8ad2-297d637c3b75">
+
 
 ------
 
@@ -81,7 +94,7 @@ C:\User\app\projects\crm>python main.py
 **👨🏻‍💻 Programmed by: *Vishal S  Nala***
 
 **Special Thanks to [QbitsLearning](https://www.qbitslearning.com/ "QbitLearning's Homepage") Community🤍 and [*Nitish Shetty Sir*](https://www.linkedin.com/in/nitish-m-setty-7a0206192/)✨**
-
+--
 
 
 *ReadME Credits: Anil Swami*
