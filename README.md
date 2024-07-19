@@ -1,8 +1,8 @@
 # The Ultimate CLI based CRM 
 ------
-## That allows you for basic Data Manipulationa and Visualization in Python
+## This allows you to perform basic Data Manipulation and Visualization in Python
 
-### Let's start with the tools, and modules used here:
+### Tools and Modules Used:
 
 #### Modules:
 * sqlite3
