@@ -19,6 +19,35 @@
 * Python
 ------
 
+## Dependencies
+***Make sure you have***
+
+* **sqlite3:** SQLite3 is a lightweight, serverless SQL database engine, ideal for embedded applications and local data storage.<br>
+
+```
+    pip install db-sqlite3
+```
+
+* **Pandas:** Pandas is a powerful data manipulation and analysis library for Python<br>
+
+```
+    pip install pandas
+```
+
+* **Numpy:** NumPy is a key Python library for numerical computations, offering robust arrays and functions for efficient data operations.<br>
+
+```
+pip install numpy
+```
+
+* **Plotly:** Plotly is a Python graphing library that makes interactive, publication-quality graphs online.<br>
+
+```
+pip install plotly
+```
+------
+
+
 ## About
 ------
 
